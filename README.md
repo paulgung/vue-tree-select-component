@@ -1,7 +1,7 @@
 ## tree-select-component
-#### Used to select from a set of related data sets.
+#### Used to select from a set of related data sets. The effect is as follows.
 
-<img src="/Users/paulgung/Library/Application Support/typora-user-images/image-20220507204819655.png" alt="image-20220507204819655" style="zoom: 50%;" />
+<img src="https://user-images.githubusercontent.com/98678475/167255654-4330ad70-fa9b-4e9c-87e5-56d338c2bc69.png" width="400">
 
 ### Initialize
 
